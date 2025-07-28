@@ -12,3 +12,17 @@ This allows me to:
 Please email your submission to: sobkyayoub1@gmail.com
 
 Thank you for helping keep this project high quality and fun for everyone!
+ ## ⚠️ Pre-Release Disclaimer
+
+This DC-10 3D Cockpit Starter Pack is currently a **pre-release** and a **work in progress**.
+
+It is provided **as-is** for testing, experimentation, and development purposes only.  
+It is **not** a finished or fully functional cockpit and **should not be used as a final add-on** in flight.
+
+You may encounter bugs, missing features, or incomplete systems.  
+
+Please do **not** expect a polished experience yet.
+
+Your feedback, bug reports, and contributions are highly appreciated to help improve this project!
+
+Thank you for your understanding and support as we build something great together.
