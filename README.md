@@ -27,3 +27,17 @@ Your feedback, bug reports, and contributions are highly appreciated to help imp
 
 Thank you for your understanding and support as we build something great together.
 AND ALSO, IF YOU CAN'T SEE ANYTHING IN THE IF YOU SEE A TAG IN THE RELEASE AND YOU SHOULD SEE A FREE RELEASE IF YOU WANT YOU CAN CLICK DIRECTLY ON THE FILE THAT I PROVIDED ON MY COMMENT ABOUT TO BUY IF YOU WANNA GO FANCY YOU CAN DOWNLOAD THE SOURCE CODE EXTRACT EVERYTHING UNTIL YOU GET THE COCKPIT 3-D FOLDER WHICH IS READY FOR MODIFICATION AND USE but please read this entire description
+## Contribution and Review Process
+
+To maintain high quality and control, all contributions should follow this process:
+
+- Fork this repository and work on your improvements in a **private fork or branch**.  
+- Invite me (`your-github-username`) as a collaborator with **read access** so I can download and test your changes.  
+- Do **not** make your fork or branch public until after approval.  
+- Once tested, I will provide feedback via email or GitHub issues.  
+- If approved, we will proceed to make your fork or branch public and merge your changes into the main project.  
+- If not approved, you will receive suggestions for improvements before public release.
+
+This ensures the project remains stable and well-managed while welcoming valuable contributions.
+
+Thank you for collaborating!
