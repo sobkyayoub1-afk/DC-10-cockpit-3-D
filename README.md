@@ -41,3 +41,14 @@ To maintain high quality and control, all contributions should follow this proce
 This ensures the project remains stable and well-managed while welcoming valuable contributions.
 
 Thank you for collaborating!
+## Important Note: 3D Cockpit Add-On Only
+
+This project adds a **new 3D cockpit model and panel** to the Aerobridge DC-10 aircraft.
+
+**It does NOT replace or override the existing 2D cockpit.**
+
+The original 2D cockpit remains fully functional and intact.
+
+The 3D cockpit is an additional feature intended to enhance the flying experience.
+
+Please keep this in mind when making modifications or testing.
