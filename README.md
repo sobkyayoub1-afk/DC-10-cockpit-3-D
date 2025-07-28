@@ -26,3 +26,4 @@ Please do **not** expect a polished experience yet.
 Your feedback, bug reports, and contributions are highly appreciated to help improve this project!
 
 Thank you for your understanding and support as we build something great together.
+AND ALSO, IF YOU CAN'T SEE ANYTHING IN THE IF YOU SEE A TAG IN THE RELEASE AND YOU SHOULD SEE A FREE RELEASE IF YOU WANT YOU CAN CLICK DIRECTLY ON THE FILE THAT I PROVIDED ON MY COMMENT ABOUT TO BUY IF YOU WANNA GO FANCY YOU CAN DOWNLOAD THE SOURCE CODE EXTRACT EVERYTHING UNTIL YOU GET THE COCKPIT 3-D FOLDER WHICH IS READY FOR MODIFICATION AND USE but please read this entire description
